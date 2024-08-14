@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaGeralPOO", "MediaGeralPOO\MediaGeralPOO.csproj", "{6BC96E11-4969-4225-8F0C-CE010F23CAF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevadorService", "ElevadorService\ElevadorService.csproj", "{5338099F-721F-4CC2-8A44-3BA81E68688A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6BC96E11-4969-4225-8F0C-CE010F23CAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BC96E11-4969-4225-8F0C-CE010F23CAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BC96E11-4969-4225-8F0C-CE010F23CAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5338099F-721F-4CC2-8A44-3BA81E68688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5338099F-721F-4CC2-8A44-3BA81E68688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5338099F-721F-4CC2-8A44-3BA81E68688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5338099F-721F-4CC2-8A44-3BA81E68688A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
